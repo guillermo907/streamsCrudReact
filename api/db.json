@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "New title",
+      "description": "dfgdfg",
+      "id": 1
+    },
+    {
+      "title": "New improved title",
+      "description": "improved desc",
+      "userId": "108342484784749281474",
+      "id": 2
+    },
+    {
+      "title": "Stream terero",
+      "description": "para seguir probando",
+      "userId": "108342484784749281474",
+      "id": 3
+    },
+    {
+      "title": "Stream prueba nuevo",
+      "description": "descrivd adfsdfadf ",
+      "userId": "108342484784749281474",
+      "id": 4
+    }
+  ]
+}
